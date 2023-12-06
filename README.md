@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/imacks/bitflags-go.svg)](https://pkg.go.dev/github.com/imacks/bitflags-go)
+
 bitflags-go
 ===========
 This package is a simple wrapper for working with [bit field](https://en.wikipedia.org/wiki/Bit_field) in Go.
